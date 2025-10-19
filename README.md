@@ -2,16 +2,16 @@
 *Daan Osterloh*
 
 ## About Me
-Welcome! My name is Daan Osterloh. I'm half Thai and half Dutch. I love to make cool stuff, whether it is code, 3D models, digital art, or even forging with hot metal. I even have a small blacksmith workshop where I tinker in as a hobby. As a programmer at heart, I aim to develop games that blend technical precision while expressing my own artistic vision. It's clear to me—and hopefully to you by the end of this—that I am passionate about game development and driven to bring worlds to life thorugh my skills and creativity. 
+Welcome! My name is Daan Osterloh. I'm half Thai and half Dutch. I love to make cool stuff, whether it is code, 3D models, digital art, or even forging with hot metal. I even have a small blacksmith workshop where I tinker in as a hobby. As a programmer at heart, I aim to develop games that blend technical precision while expressing my own artistic vision. It's clear to me—and hopefully to you by the end of this—that I am passionate about game development and driven to bring worlds to life thorough my skills and creativity. 
 <br/>
 <br/>
 
 ## How I Got Here
 Here's a quick run-down on my game development journey and my experience with various tools.
-- 2020-2022: It all began with me trying to make games using *Roblox Studio* which tought me the basics of programming.
+- 2020-2022: It all began with me trying to make games using *Roblox Studio* which taught me the basics of programming.
 - 2022-2024: I transitioned to the *Unity Engine* for game development, learning *C#* and how to properly structure a real game.
 - 2023: I gained brief industry experience at *Ticket Counter*, developing their QR app for Apple devices using the *Swift* programming language.
-- 2024-2025: Alongside Unity I expanded to using *C++* for building games using libraries without relying on a engine. This tought me how game engines work under the hood and gave me flexibility in designing my games.
+- 2024-2025: Alongside Unity I expanded to using *C++* for building games using libraries without relying on a engine. This let me experience how game engines work under the hood and gave me flexibility in designing my games.
 <br/>
 
 
@@ -25,7 +25,7 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 *Click the thumbnail to see the demo video!*
 <br/>
 
-Created using C++ and the SFML library, this project was developed as an intake assignment. If you are interested in peeking under the hood, [here](https://github.com/Dandylion6/Per-The-Contract) you can find the repository of the project. This project took a lot of effort to get working as it is my first ever time developing a game without an engine as well as with C++, yet I managed to wrap it all up within 3 months. 
+Created using C++ and the SFML library, this project was developed as an intake assignment. If you are interested in peeking under the hood, [here](https://github.com/Dandylion6/Per-The-Contract) you can find the repository of the project or [here](https://dandylion6.itch.io/per-the-contract) for a playable copy. This project took a lot of effort to get working as it is my first ever time developing a game without an engine as well as with C++, yet I managed to wrap it all up within 3 months. 
 
 ### Untitled Platformer
 ![Gameplay GIF](gifs/24-09-2022.gif)
@@ -33,6 +33,10 @@ Created using C++ and the SFML library, this project was developed as an intake 
 One the the first Unity projects I developed. Wanting to make a satisfying and responsive movement system for this platformer I studied methods to achieve this. It never was more than just the movement and camera code-wise.
 
 ### Gamejam 'Cozy Spring 2023'
+[![Gameplay Demo](images/Cozy_Spring_Thumbnail.jpg)](https://youtu.be/HJqWK55HRdI)
+
+This project was made for the 2023 'Cozy Spring' Gamejam, it is the first time I participated in one. It lasted for three whole days, where me and a friend of mine developed this game from scratch. My friend was responsible for the models where I did everything else. The build can be found [here](https://dandylion6.itch.io/natures-harvest) if you are interested in trying this out.
+
 ### Current project
 
 
