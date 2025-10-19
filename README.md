@@ -1,5 +1,13 @@
-# Portfolio
+# PORTFOLIO
 *Daan Osterloh*
 
-## Introduction
+## About Me
 Hello! My name is Daan Osterloh. I'm half Thai and half Dutch. ’ve always felt connected to the creative world, especially within the gaming industry. I love to make cool stuff, whether it is code, 3D models, digital art, or even forging with hot metal. At home, I even have a small blacksmith wprkshop where I tinker in as a hobby. As a programmer at heart, I aim to develop games that blend technical precision while expressing my own artistic vision. It's clear to me—and hopefully to you by the end of this—that I am passionate about game development and driven to bring worlds to life thorugh my skills and creativity. 
+
+## How I got here
+Here's a quick run-down on my game development journey and my experience with various tools.
+- 2020-2022: It all began with me trying to make games using *Roblox Studio* which tought me the basics of programming.
+- 2022-2024: I transitioned to the *Unity Engine* for game development, learning *C#* and how to properly structure a real game.
+- 2023: I gained brief industry experience at *Ticket Counter*, developing their QR app for Apple devices using the *Swift* programming language.
+- 2024-2025: Alongside Unity I expanded to using *C++* for building games using libraries without relying on a engine. This tought me how game engines work under the hood and gave me flexibility in designing my games.
+
