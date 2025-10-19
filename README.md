@@ -21,7 +21,7 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 <br/>
 
 ### C++ trading game MVP
-[![Gameplay Demo]()](https://youtu.be/5NnvE85OU7s)
+[![Gameplay Demo](images/Per_The_Contract_Thumbnail.png)](https://youtu.be/5NnvE85OU7s)
 
 ### Untitled Platformer
 ![Gameplay GIF](gifs/24-09-2022.gif)
