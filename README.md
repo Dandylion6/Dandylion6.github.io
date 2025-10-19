@@ -3,8 +3,19 @@
 
 ---
 
-## 🧭 About Me  
-Welcome! My name is Daan Osterloh. I'm half Thai and half Dutch. I love to make cool stuff, whether it is code, 3D models, digital art, or even forging with hot metal. I even have a small blacksmith workshop where I tinker in as a hobby. As a programmer at heart, I aim to develop games that blend technical precision while expressing my own artistic vision. It's clear to me—and hopefully to you by the end of this—that I am passionate about game development and driven to bring worlds to life through my skills and creativity.  
+<table>
+<tr>
+<td width="30%">
+  <img src="images/Personal_Picture.jpg" width="100%">
+</td>
+<td>
+  <h2>🧭 About Me</h2>
+  <p>
+ Welcome! My name is Daan Osterloh. I'm half Thai and half Dutch. I love to make cool stuff, whether it is code, 3D models, digital art, or even forging with hot metal. I even have a small blacksmith workshop where I tinker in as a hobby. As a programmer at heart, I aim to develop games that blend technical precision while expressing my own artistic vision. It's clear to me—and hopefully to you by the end of this—that I am passionate about game development and driven to bring worlds to life through my skills and creativity.  
+  </p>
+</td>
+</tr>
+</table>
 
 <br/>
 
