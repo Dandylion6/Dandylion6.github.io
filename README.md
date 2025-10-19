@@ -25,21 +25,32 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 *Click the thumbnail to see the demo video!*
 <br/>
 
-Created using C++ and the SFML library, this project was developed as an intake assignment. If you are interested in peeking under the hood, [here](https://github.com/Dandylion6/Per-The-Contract) you can find the repository of the project or [here](https://dandylion6.itch.io/per-the-contract) for a playable copy. This project took a lot of effort to get working as it is my first ever time developing a game without an engine as well as with C++, yet I managed to wrap it all up within 3 months. 
+Created using C++ and the *SFML* library for rendering, this project was developed as an intake assignment. If you are interested in peeking under the hood, [here](https://github.com/Dandylion6/Per-The-Contract) you can find the repository of the project or [here](https://dandylion6.itch.io/per-the-contract) for a playable copy. This project took a lot of effort to get working as it is my first ever time developing a game without an engine as well as with C++, yet I managed to wrap it all up within 3 months. 
 
 ### Untitled Platformer
 ![Gameplay GIF](gifs/24-09-2022.gif)
 
-One the the first Unity projects I developed. Wanting to make a satisfying and responsive movement system for this platformer I studied methods to achieve this. It never was more than just the movement and camera code-wise.
+One the first Unity projects I developed. Wanting to make a satisfying and responsive movement system for this platformer I studied methods to achieve this. It never was more than just the movement and camera code-wise.
 
-### Gamejam 'Cozy Spring 2023'
+### Game jam 'Cozy Spring 2023'
 [![Gameplay Demo](images/Cozy_Spring_Thumbnail.jpg)](https://youtu.be/HJqWK55HRdI)
 
-This project was made for the 2023 'Cozy Spring' Gamejam, it is the first time I participated in one. It lasted for three whole days, where me and a friend of mine developed this game from scratch. My friend was responsible for the models where I did everything else. The build can be found [here](https://dandylion6.itch.io/natures-harvest) if you are interested in trying this out.
+*Click the thumbnail to see the demo video!*
+<br/>
+
+This project was made for the 2023 'Cozy Spring' Game jam, it is the first time I participated in one. It lasted for three whole days, where me and a friend of mine developed this game from scratch. My friend was responsible for the models where I did everything else. The build can be found [here](https://dandylion6.itch.io/natures-harvest) if you are interested in trying this out.
 
 ### Current project
+[![Gameplay Demo](images/Negative_Contact_Thumbnail.jpg)](https://youtu.be/sd7h81fvCjk)
 
+*Click the thumbnail to see the demo video!*
+<br/>
+
+A little sneak peak on a side project I am working on in my free time. It uses C++ with *Raylib* and *EnTT* libraries as the backbone. EnTT is perfect for creating an ECS game structure, which is a more modern and optimised than OOP. Raylib is used for rendering and audio. Due to it being an on-going project, with release in mind, I unfortunately will not have the repository public. 
 
 ## Get to know me
 **E-mail:** *daanosterloah.06@gmail.com*
+
 **Itch.io:** *https://dandylion6.itch.io*
+
+**Portfolio playlist:** *https://www.youtube.com/playlist?list=PL-1P7XAy1UPsn-WnpgaBeQPfrnQqMMywa*
