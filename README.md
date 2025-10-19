@@ -11,3 +11,5 @@ Here's a quick run-down on my game development journey and my experience with va
 - 2023: I gained brief industry experience at *Ticket Counter*, developing their QR app for Apple devices using the *Swift* programming language.
 - 2024-2025: Alongside Unity I expanded to using *C++* for building games using libraries without relying on a engine. This tought me how game engines work under the hood and gave me flexibility in designing my games.
 
+## My work
+To show that I'm not all talk, here I will showcase my projects, the skills I've learned along the way, the challenges I've faced, and some up-and-coming stuff. Each piece should reflect my growth as a programmer, artist, and above all as a game developer. 
