@@ -28,4 +28,4 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 
 ## Get to know me
 **E-mail:** *daanosterloah.06@gmail.com*
-**Itch.io:** **
+**Itch.io:** *https://dandylion6.itch.io*
