@@ -13,15 +13,19 @@ Here's a quick run-down on my game development journey and my experience with va
 - 2023: I gained brief industry experience at *Ticket Counter*, developing their QR app for Apple devices using the *Swift* programming language.
 - 2024-2025: Alongside Unity I expanded to using *C++* for building games using libraries without relying on a engine. This tought me how game engines work under the hood and gave me flexibility in designing my games.
 <br/>
-<br/>
+
 
 ## What I've Done
 To show that I'm not all talk, here I will showcase my projects, the skills I've learned along the way, the challenges I've faced, and some up-and-coming stuff. Each piece should reflect my growth as a programmer, artist, and above all as a game developer. I will showcase anything worth your time, this includes unfinished projects as well.
 <br/>
-<br/>
 
 ### C++ trading game MVP
 [![Gameplay Demo](images/Per_The_Contract_Thumbnail.png)](https://youtu.be/5NnvE85OU7s)
+
+*Click the thumbnail to see the demo video!*
+<br/>
+
+Created using C++ and the SFML library, this project was developed as an intake assignment. If you are interested in peeking under the hood, [here](https://github.com/Dandylion6/Per-The-Contract) you can find the repository of the project. This project took a lot of effort to get working as it is my first ever time developing a game without an engine as well as with C++, yet I managed to wrap it all up within 3 months. 
 
 ### Untitled Platformer
 ![Gameplay GIF](gifs/24-09-2022.gif)
