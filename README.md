@@ -20,14 +20,18 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 <br/>
 <br/>
 
-### Platformer
+### C++ trading game MVP
+[![Gameplay Demo](images/Per_The_Contract_Thumbnail.png)](https://youtu.be/5NnvE85OU7s)
+
+### Untitled Platformer
 ![Gameplay GIF](gifs/24-09-2022.gif)
 
+One the the first Unity projects I developed. Wanting to make a satisfying and responsive movement system for this platformer I studied methods to achieve this. It never was more than just the movement and camera code-wise.
+
 ### Gamejam 'Cozy Spring 2023'
-### C++ trading game MVP
 ### Current project
 
 
 ## Get to know me
 **E-mail:** *daanosterloah.06@gmail.com*
-**Itch.io:** **
+**Itch.io:** *https://dandylion6.itch.io*
