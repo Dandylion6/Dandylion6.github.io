@@ -21,7 +21,7 @@ To show that I'm not all talk, here I will showcase my projects, the skills I've
 <br/>
 
 ### Platformer
-
+![Gameplay GIF](gifs/24-09-2022.gif)
 
 ### Gamejam 'Cozy Spring 2023'
 ### C++ trading game MVP
