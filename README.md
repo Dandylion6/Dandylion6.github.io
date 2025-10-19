@@ -6,7 +6,7 @@ Welcome! My name is Daan Osterloh. I'm half Thai and half Dutch. I love to make 
 <br/>
 <br/>
 
-## How I got here
+## How I Got Here
 Here's a quick run-down on my game development journey and my experience with various tools.
 - 2020-2022: It all began with me trying to make games using *Roblox Studio* which tought me the basics of programming.
 - 2022-2024: I transitioned to the *Unity Engine* for game development, learning *C#* and how to properly structure a real game.
@@ -15,12 +15,14 @@ Here's a quick run-down on my game development journey and my experience with va
 <br/>
 <br/>
 
-## My work
+## What I've Done
 To show that I'm not all talk, here I will showcase my projects, the skills I've learned along the way, the challenges I've faced, and some up-and-coming stuff. Each piece should reflect my growth as a programmer, artist, and above all as a game developer. I will showcase anything worth your time, this includes unfinished projects as well.
 <br/>
 <br/>
 
 ### Platformer
+
+
 ### Gamejam 'Cozy Spring 2023'
 ### C++ trading game MVP
 ### Current project
