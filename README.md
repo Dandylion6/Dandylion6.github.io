@@ -73,7 +73,11 @@ This project was made for the 2023 *Cozy Spring* Game Jam—it is the first time
 [![Gameplay Demo](images/Negative_Contact_Thumbnail.jpg)](https://youtu.be/sd7h81fvCjk)  
 *Click the thumbnail to see the demo video!*  
 
-A little sneak peek at a side project I am working on in my free time. It uses **C++** with *Raylib* and *EnTT* libraries as the backbone. *EnTT* is perfect for creating an ECS game structure, which is more modern and optimized than OOP. *Raylib* is used for rendering and audio. Due to it being an ongoing project, with release in mind, I unfortunately will not have the repository public.  
+A little sneak peek at a side project I am working on in my free time. It uses **C++** with *Raylib* and *EnTT* libraries as the backbone. *EnTT* is perfect for creating an ECS game structure, which is more modern and optimized than OOP. *Raylib* is used for rendering and audio. It is still under development and most things are still work in progress.
+
+[https://youtu.be/D1Z9-VmNUGE] (A most recent video demonstrating the visual rework. All models are made my me.)
+
+
 
 <br/>
 
